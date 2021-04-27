@@ -1,3 +1,3 @@
 # demo-repo
 
-This repository aims to demonstrate the main github funcionalities.
+This repository aims to demonstrate main github funcionalities.
