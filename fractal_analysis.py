@@ -16,10 +16,16 @@ This code aims to
 ###################### Variables Needed ######################
 # 
 ##############################################################
+import os
 
-source_directory = '/home/victor/Doctorado_USal/pesquisa/da'
 
-    with open("/home/victor/Doctorado_USal/pesquisa/datos/s20v01to09def.txt", 'r') as f:
+source_directory = '/home/victor/Doctorado_USal/pesquisa/datos/'
+l = os.listdir(source_directory); l.sort()
+
+for i in l:
+
+    print(f'\033[1;37;41mSIGMA = {i[1]}.{i[2]}\033[m')
+    with open(source_directory + i, 'r') as f:
         l0 = [float(line.strip()) for line in f.readlines()]
     l0 = l0[5:]
     print(len(l0))
