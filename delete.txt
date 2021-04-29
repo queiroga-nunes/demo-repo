@@ -1,0 +1,198 @@
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 0.8[m
+44234
+first n-bounces window: 0.661
+first reflection: 0.661
+[1;37;41mSIGMA = 0.8 has no resonance regime[m
+c_step01: 0 
+c_step001: 699 
+c_step00001: 10000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 0.9[m
+86684
+first n-bounces window: 0.61566
+first reflection: 0.61566
+[1;37;41mSIGMA = 0.9 has no resonance regime[m
+c_step01: 0 
+c_step001: 629 
+c_step00001: 17000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.0[m
+61094
+first n-bounces window: 0.57251
+first reflection: 0.57251
+[1;37;41mSIGMA = 1.0 has no resonance regime[m
+c_step01: 0 
+c_step001: 669 
+c_step00001: 13000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.1[m
+56430
+first n-bounces window: 0.52517
+first reflection: 0.53158
+Fractal interval is  [1;31;47m[0.52517, 0.53158][m
+c_step01: 1 
+c_step001: 699 
+c_step00001: 10000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.2[m
+94232
+first n-bounces window: 0.46226
+first reflection: 0.49306
+Fractal interval is  [1;31;47m[0.46226, 0.49306][m
+c_step01: 0 
+c_step001: 669 
+c_step00001: 13000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.3[m
+93204
+first n-bounces window: 0.4206
+first reflection: 0.45675
+Fractal interval is  [1;31;47m[0.4206, 0.45675][m
+c_step01: 1 
+c_step001: 659 
+c_step00001: 14000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.4[m
+72150
+first n-bounces window: 0.38114
+first reflection: 0.4228
+Fractal interval is  [1;31;47m[0.38114, 0.4228][m
+c_step01: 1 
+c_step001: 679 
+c_step00001: 12000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.5[m
+81228
+first n-bounces window: 0.34374
+first reflection: 0.39095
+Fractal interval is  [1;31;47m[0.34374, 0.39095][m
+c_step01: 1 
+c_step001: 679 
+c_step00001: 12000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.6[m
+79128
+first n-bounces window: 0.30827
+first reflection: 0.36108
+Fractal interval is  [1;31;47m[0.30827, 0.36108][m
+c_step01: 1 
+c_step001: 659 
+c_step00001: 14000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.7[m
+89790
+first n-bounces window: 0.27449
+first reflection: 0.33323
+Fractal interval is  [1;31;47m[0.27449, 0.33323][m
+c_step01: 1 
+c_step001: 649 
+c_step00001: 15000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.8[m
+93240
+first n-bounces window: 0.24207
+first reflection: 0.30721
+Fractal interval is  [1;31;47m[0.24207, 0.30721][m
+c_step01: 1 
+c_step001: 639 
+c_step00001: 16000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 1.9[m
+93690
+first n-bounces window: 0.21066
+first reflection: 0.28288
+Fractal interval is  [1;31;47m[0.21066, 0.28288][m
+c_step01: 1 
+c_step001: 649 
+c_step00001: 15000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.0[m
+69174
+first n-bounces window: 0.17984
+first reflection: 0.261
+Fractal interval is  [1;31;47m[0.17984, 0.261][m
+c_step01: 1 
+c_step001: 689 
+c_step00001: 11000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.1[m
+107124
+first n-bounces window: 0.15873
+first reflection: 0.23868
+Fractal interval is  [1;31;47m[0.15873, 0.23868][m
+c_step01: 1 
+c_step001: 659 
+c_step00001: 14000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.2[m
+103074
+first n-bounces window: 0.12989
+first reflection: 0.21865
+Fractal interval is  [1;31;47m[0.12989, 0.21865][m
+c_step01: 1 
+c_step001: 659 
+c_step00001: 14000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.3[m
+97968
+first n-bounces window: 0.09897
+first reflection: 0.19982
+Fractal interval is  [1;31;47m[0.09897, 0.19982][m
+c_step01: 0 
+c_step001: 680 
+c_step00001: 14000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.4[m
+98810
+first n-bounces window: 0.08013
+first reflection: 0.18214
+Fractal interval is  [1;31;47m[0.08013, 0.18214][m
+c_step01: 0 
+c_step001: 690 
+c_step00001: 13000
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[1;37;41mSIGMA = 2.5[m
+92664
+first n-bounces window: 0.04596
+first reflection: 0.16546
+Fractal interval is  [1;31;47m[0.04596, 0.16546][m
+c_step01: 0 
+c_step001: 720 
+c_step00001: 14000

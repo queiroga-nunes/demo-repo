@@ -22,10 +22,10 @@ import os
 source_directory = '/home/victor/Doctorado_USal/pesquisa/datos/'
 l = os.listdir(source_directory); l.sort()
 
-for i in l:
+for file in l:
 
-    print(f'\033[1;37;41mSIGMA = {i[1]}.{i[2]}\033[m')
-    with open(source_directory + i, 'r') as f:
+    print(f'\n\n{"+="*30}\n\033[1;37;41mSIGMA = {file[1]}.{file[2]}\033[m')
+    with open(source_directory + file, 'r') as f:
         l0 = [float(line.strip()) for line in f.readlines()]
     l0 = l0[5:]
     print(len(l0))
@@ -66,10 +66,11 @@ for i in l:
             l1.append([l0[j], 1, l0[j + 3]])
             if first_n_bounces == 0: 
                 print(f'first n-bounces window: {l0[j]}') 
-                first_n_bounces += 1
+                first_n_bounces += l0[j]
             if first_reflection == 0 and l0[j + 3] == 1:
                     print(f'first reflection: {l0[j]}')
-                    first_reflection += 1
+                    first_reflection += l0[j]
+            
 
 
             if round((l0[j + 10] - l0[j]), 5) >= 0.1:
@@ -80,8 +81,12 @@ for i in l:
                 c_step00001 += 1
             j += 10
             if j >= len(l0) - 10: break
+    
+    if first_n_bounces == first_reflection:
+        print(f'\033[1;37;41mSIGMA = {file[1]}.{file[2]} has no resonance regime\033[m') 
+    else:
+        print(f'Fractal interval is  \033[1;31;47m[{first_n_bounces}, {first_reflection}]\033[m')
     print(f'c_step01: {c_step01} \nc_step001: {c_step001} \nc_step00001: {c_step00001}')
-
 # print(len(l1))
 # print(l1[1])
 
