@@ -90,7 +90,7 @@ for file in l:
 # print(len(l1))
 # print(l1[1])
 
-# box_size = 10
+# box_size = 1
 # fr = 0
 # for i in range(0, len(l1), box_size):
 #     for j in range(0, box_size):
